@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "This is a totally new post!",
+      "text": "We are getting to the end of the cohort, and I'm gonna miss everybody and this atmosphere we have created for six months now!"
+    },
+    {
+      "title": "This might be marwellous",
+      "text": "Here I am, you are not alone!",
+      "id": 3
+    },
+    {
+      "title": "This might be marwellous",
+      "text": "Here I am, you are not alone!",
+      "id": 4
+    },
+    {
+      "title": "This might be marwellous",
+      "text": "Here I am, you are not alone!",
+      "id": 5
+    },
+    {
+      "title": "This might be marwellous",
+      "text": "Here I am, you are not alone!",
+      "id": 6
+    },
+    {
+      "title": "Function post",
+      "text": "I'm creating this post inside a function",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
